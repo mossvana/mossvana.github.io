@@ -5,7 +5,25 @@ main:
 
   - title: "Categories"
     url: /categories/
-    
+
+  - title: "개발"
+    url: /categories/dev/
+
+  - title: "CTF/Wargame"
+    url: /categories/ctf/
+
+  - title: "BugBounty"
+    url: /categories/bugbounty/
+
+  - title: "블로그/기술문서"
+    url: /categories/blog/
+
+  - title: "논문/컨퍼런스"
+    url: /categories/research/
+
+  - title: "공모전/자격증"
+    url: /categories/career/
+
   - title: "About"
     url: /about/
   # - title: "Sample Posts"
