@@ -5,6 +5,7 @@ author_profile: true
 
 # mossvana의 보안 스터디 블로그 입니다
 
+---
 
 ## About Me
 
@@ -12,6 +13,7 @@ author_profile: true
 - Exploit Development 공부 중
 - 보안 & 개발 기록
 
+---
 
 ## Categories
 
@@ -22,6 +24,3 @@ author_profile: true
 - [📝 블로그/기술문서](/categories/blog/)
 - [📚 논문/컨퍼런스](/categories/research/)
 - [🏆 공모전/자격증](/categories/career/)
-
-
-## Recent Posts
