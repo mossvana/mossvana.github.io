@@ -3,6 +3,8 @@ layout: home
 author_profile: true
 ---
 
+mossvana의 보안 스터디 블로그 입니다
+
 ---
 
 ## Categories
