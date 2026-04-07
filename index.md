@@ -1,6 +1,7 @@
 ---
 layout: home
 author_profile: true
+author: default
 ---
 
 mossvana의 보안 스터디 블로그 입니다
