@@ -10,6 +10,13 @@ mossvana의 보안 스터디 블로그 입니다
 
 ## Categories
 
+<style>
+.page__title {
+  margin-top: 10px !important;
+  margin-bottom: 10px !important;
+}
+</style>
+
 [개발](/categories/dev/){: .btn .btn--primary}
 [CTF/Wargame](/categories/ctf/){: .btn .btn--primary}
 [BugBounty](/categories/bugbounty/){: .btn .btn--primary}
