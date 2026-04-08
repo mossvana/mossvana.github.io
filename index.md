@@ -8,7 +8,7 @@ mossvana의 보안 스터디 블로그 입니다
 
 ---
 
-## Categories
+<h4 style="font-size: 20px; margin-bottom: 10px;">Categories</h4>
 
 [개발](/categories/dev/){: .btn .btn--primary}
 [CTF/Wargame](/categories/ctf/){: .btn .btn--primary}
