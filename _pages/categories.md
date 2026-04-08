@@ -6,7 +6,7 @@ permalink: /categories/
 
 <div class="feature__wrapper">
 
-<div class="feature__item" style="margin-top: 0px;" style="margin-bottom: 20px;">
+<div class="feature__item" style="margin-bottom: 20px;">
   <a href="/categories/dev/" class="archive__item"
      style="
          text-decoration: none;
@@ -21,7 +21,7 @@ permalink: /categories/
        "
      onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.1)';"
      onmouseout="this.style.transform='none'; this.style.boxShadow='none';">
-      <h5 style="font-size: 16px; margin-bottom: 8px;">💻 개발</h5>
+      <h5 style="font-size: 16px; margin-top: 8px; margin-bottom: 8px;">💻 개발</h5>
       <p style="
       font-size: 13px;
       margin: 0;
