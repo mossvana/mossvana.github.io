@@ -4,7 +4,7 @@ title: "Categories"
 permalink: /categories/
 ---
 
-<div class="feature__wrapper" style="margin: 0 0 20px 0;">
+<div class="feature__wrapper" style="margin-top: -20px;">
 
 <div class="feature__item" style="margin-bottom: 20px;">
   <a href="/categories/dev/" class="archive__item"
