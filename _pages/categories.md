@@ -50,7 +50,7 @@ permalink: /categories/
        onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.1)';"
        onmouseout="this.style.transform='none'; this.style.boxShadow='none';"
     >
-      <h5 style="font-size: 16px; margin-bottom: 8px;">🔐 CTF/Wargame</h5>
+      <h5 style="font-size: 16px; margin-top: 8px; margin-bottom: 8px;">🔐 CTF/Wargame</h5>
       <p style="
       font-size: 13px;
       margin: 0;
@@ -79,7 +79,7 @@ permalink: /categories/
        onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.1)';"
        onmouseout="this.style.transform='none'; this.style.boxShadow='none';"
     >
-      <h5 style="font-size: 16px; margin-bottom: 8px;">🐞 BugBounty</h5>
+      <h5 style="font-size: 16px; margin-top: 8px; margin-bottom: 8px;">🐞 BugBounty</h5>
       <p style="
       font-size: 13px;
       margin: 0;
@@ -108,7 +108,7 @@ permalink: /categories/
        onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.1)';"
        onmouseout="this.style.transform='none'; this.style.boxShadow='none';"
     >
-      <h5 style="font-size: 16px; margin-bottom: 8px;">📝 블로그/기술문서</h5>
+      <h5 style="font-size: 16px; margin-top: 8px; margin-bottom: 8px;">📝 블로그/기술문서</h5>
       <p style="
       font-size: 13px;
       margin: 0;
@@ -137,7 +137,7 @@ permalink: /categories/
        onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.1)';"
        onmouseout="this.style.transform='none'; this.style.boxShadow='none';"
     >
-      <h5 style="font-size: 16px; margin-bottom: 8px;">📚 논문/컨퍼런스</h5>
+      <h5 style="font-size: 16px; margin-top: 8px; margin-bottom: 8px;">📚 논문/컨퍼런스</h5>
       <p style="
       font-size: 13px;
       margin: 0;
@@ -166,7 +166,7 @@ permalink: /categories/
        onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.1)';"
        onmouseout="this.style.transform='none'; this.style.boxShadow='none';"
     >
-      <h5 style="font-size: 16px; margin-bottom: 8px;">🏆 공모전/자격증</h5>
+      <h5 style="font-size: 16px; margin-top: 8px; margin-bottom: 8px;">🏆 공모전/자격증</h5>
       <p style="
       font-size: 13px;
       margin: 0;
