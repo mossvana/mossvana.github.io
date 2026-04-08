@@ -6,7 +6,7 @@ permalink: /categories/
 
 <div class="feature__wrapper">
 
-<div class="feature__item" style="margin-bottom: 20px;">
+<div class="feature__item" style="margin-top: 20px;" style="margin-bottom: 20px;">
   <a href="/categories/dev/" class="archive__item"
      style="
          text-decoration: none;
