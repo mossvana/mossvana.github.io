@@ -4,12 +4,6 @@ author_profile: true
 author: default
 ---
 
-<style>
-.archive__subtitle {
-  margin-top: 10px !important;
-}
-</style>
-
 mossvana의 보안 스터디 블로그 입니다
 
 ---
@@ -23,3 +17,4 @@ mossvana의 보안 스터디 블로그 입니다
 [논문/컨퍼런스](/categories/research/){: .btn .btn--primary}
 [공모전/자격증](/categories/career/){: .btn .btn--primary}
 
+<div style="margin-bottom: 50px;"></div>
