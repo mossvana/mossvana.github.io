@@ -41,17 +41,18 @@
   margin: 0 auto;
 }
 
-/* 2컬럼 레이아웃 간격 제거 */
+/* 사이드바 + 본문 간격 완전 제거 */
 .home .layout--single {
   display: grid !important;
-  grid-template-columns: 180px 1fr !important; /* 왼쪽 줄이기 */
-  gap: 10px !important; /* ← 이게 핵심 (간격 줄이기) */
+  grid-template-columns: 160px 1fr !important; /* 왼쪽 줄이기 */
+  gap: 0px !important; /* ← 이게 핵심 (간격 줄이기) */
 }
 
 /* 사이드바 폭 줄이기 */
 .sidebar {
   width: 160px !important;
-  padding-right: 0 !important;  /* ← 이거 추가 */
+  padding: 0 !important;
+  margin: 0 !important;
 }
   
 #main {
@@ -62,6 +63,7 @@
 
 .page {
   padding-left: 0 !important;
+  margin-left: 0 !important;
   width: 100% !important;
 }
 
