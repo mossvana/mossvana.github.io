@@ -1,7 +1,7 @@
 ---
 title: "Linux-Defender 개발"
 date: 2026-04-10 
-categories: [개발]
+categories: [dev]
 ---
 
 리눅스 악성코드 탐지 프로그램을 만들고 싶어서 도전해봤다
