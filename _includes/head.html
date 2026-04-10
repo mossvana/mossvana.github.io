@@ -43,8 +43,15 @@
   margin: 0 auto;
 }
 
+/* 2단 → 1단 구조로 변경 */
+.layout--single {
+  display: block !important;
+}
+
+/* 사이드바 위로 */
 .sidebar {
-  width: 180px !important;
+  width: 100% !important;
+  margin-bottom: 20px;
 }
   
 #main {
@@ -52,9 +59,8 @@
   margin: 0 auto !important;
 }
 
-
 .page {
-  width: calc(100% - 200px) !important;
+  width: 100% !important;
 }
 
 .archive {
