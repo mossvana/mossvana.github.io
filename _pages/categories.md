@@ -181,4 +181,9 @@ permalink: /categories/
 
 </div>
 
+<style>
+.taxonomy__section {
+  display: none;
+}
+</style>
 
