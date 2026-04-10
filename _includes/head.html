@@ -43,15 +43,16 @@
   margin: 0 auto;
 }
 
-/* 2단 → 1단 구조로 변경 */
+/* 2컬럼 레이아웃 간격 제거 */
 .layout--single {
-  display: block !important;
+  display: grid !important;
+  grid-template-columns: 220px 1fr !important; /* 왼쪽 줄이기 */
+  gap: 20px !important; /* ← 이게 핵심 (간격 줄이기) */
 }
 
-/* 사이드바 위로 */
+/* 사이드바 폭 줄이기 */
 .sidebar {
-  width: 100% !important;
-  margin-bottom: 20px;
+  width: 220px !important;
 }
   
 #main {
