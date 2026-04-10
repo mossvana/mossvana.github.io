@@ -182,8 +182,9 @@ permalink: /categories/
 </div>
 
 <style>
-.taxonomy__section {
-  display: none;
+.taxonomy__section,
+.taxonomy__index {
+  display: none !important;
 }
 </style>
 
