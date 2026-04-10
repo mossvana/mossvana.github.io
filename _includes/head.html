@@ -44,7 +44,7 @@
 }
 
 /* 2컬럼 레이아웃 간격 제거 */
-.layout--single {
+.home .layout--single {
   display: grid !important;
   grid-template-columns: 220px 1fr !important; /* 왼쪽 줄이기 */
   gap: 20px !important; /* ← 이게 핵심 (간격 줄이기) */
@@ -52,11 +52,12 @@
 
 /* 사이드바 폭 줄이기 */
 .sidebar {
-  width: 200px !important;
+  width: 150px !important;
 }
   
 #main {
-  max-width: 85% !important;
+  max-width: 1200px !important;
+  width: auto !important;
   margin: 0 auto !important;
 }
 
@@ -73,6 +74,10 @@
   max-width: 1400px !important;  /* ← 이걸 키워야 안 좁음 */
 }
 
+body {
+  overflow-x: hidden;
+}
+  
 /* ===== 글씨 크기 ===== */
 html {
   font-size: 17px;
@@ -87,5 +92,5 @@ html {
   font-size: 0.9rem;
   opacity: 0.6;
 }
-  
+
 </style>
