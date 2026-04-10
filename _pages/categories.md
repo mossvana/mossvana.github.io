@@ -4,7 +4,7 @@ title: "Categories"
 permalink: /categories/
 ---
 
-<style>
+<div>
 .cat-nav {
   display: flex; gap: 8px; flex-wrap: wrap;
   margin-bottom: 24px; padding-top: 1rem;
@@ -103,4 +103,9 @@ btns.forEach(btn => {
 });
 
 filter('all');
+
+.taxonomy__section,
+.taxonomy__index {
+  display: none !important;
+}
 </script>
