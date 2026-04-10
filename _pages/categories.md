@@ -10,10 +10,10 @@ permalink: /categories/
   margin-bottom: 24px; padding-top: 1rem;
 }
 .cat-btn {
-  padding: 6px 16px; border-radius: 20px;
+  padding: 8px 20px; border-radius: 20px;
   border: 1px solid #e0e0e0;
   background: #fff; color: #555;
-  font-size: 13px; cursor: pointer;
+  font-size: 15px; cursor: pointer;
   transition: all 0.15s ease;
 }
 .cat-btn:hover { background: #f5f5f5; }
@@ -45,7 +45,7 @@ permalink: /categories/
   background: #f0f0f0; color: #666;
   margin-bottom: 8px;
 }
-.post-title { font-size: 14px; font-weight: 600; margin: 0 0 4px; }
+.post-title { font-size: 16px; font-weight: 600; margin: 0 0 4px; }
 .post-date { font-size: 12px; color: #999; }
 .count-label { font-size: 13px; color: #888; margin-bottom: 12px; }
 </style>
