@@ -1,6 +1,6 @@
 ---
 title: "Linux-Defender 개발"
-date: 2026-04-10 00:00:00 +0900
+date: 2026-04-10 
 categories: [dev]
 tags: [C, security]
 ---
