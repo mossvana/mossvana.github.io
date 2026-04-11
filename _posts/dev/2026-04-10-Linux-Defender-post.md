@@ -17,6 +17,11 @@ categories: [dev]
 
 ![image](/assets/images/dev/Linux_Defender.png){: .align-center}
 
+<br>
+해당 코드는 깃허브에서 확인할 수 있습니다
+[프로젝트 보러가기](https://github.com/mossvana/Defense/tree/main/Linux-Defender)
+<br>
+
 ## 후기
 
 사실 악성코드에 대해 잘 모르고 냅다 시작한 것이라<br> 
