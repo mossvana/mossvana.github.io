@@ -15,7 +15,7 @@ date: 2026-04-11
 #### (2) 희망 직무 및 관련 공고
 ##### 현대자동차
 현재 진행 중인 공고이다.
-![image](assets/images/careerpath/careerpath-1.png){: .align-center}
+![image](/assets/images/careerpath/careerpath-1.png){: .align-center}
 [통합보안/Service Security Engineer](https://talent.hyundai.com/apply/applyView.hc?recuYy=2025&recuType=N2&recuCls=245)
 지원자격을 보면 3년 이상의 취약점 점검 및 보안성 검토 업무 수행 경력과 웹/모바일앱 취약점 점검 및 소스코드 보안 리뷰 역량을 요구한다.<br>
 우대사항으로는 대규모 IT서비스(웹/모바일앱) 도메인에서 취약점 점검 및 보안성 검토, 
@@ -24,7 +24,7 @@ date: 2026-04-11
 
 ##### 현대오토에버 
 현재 채용 진행중이지만 개발자 위주로 뽑는거 같아서 작년 링커리어 공고를 확인했다.
-![image](assets/images/careerpath/careerpath-2.png){: .align-center}
+![image](/assets/images/careerpath/careerpath-2.png){: .align-center}
 [현대오토에버/2025년 하반기 신입사원 채용](https://linkareer.com/activity/277943)
 보안 관련 업무로는 Mobility Security Engineer_차량보안진단, Security Engineer_엔드포인트 보안시스템 운영관리, 
 Security Architect_보안 신기술 발굴/검증 및 사업화 전략, Security Architect_보안 서비스 및 상품 기획 부문에서 모집했다.<br>
@@ -35,16 +35,16 @@ Security Architect_보안 신기술 발굴/검증 및 사업화 전략, Security
 
 ##### 삼성SDS 
 삼성SDS는 현재 진행중인 채용공고가 없어 지난달 공고와 삼성커리어 페이지를 찾아보았다.
-![image](assets/images/careerpath/careerpath-3.png){: .align-center}
+![image](/assets/images/careerpath/careerpath-3.png){: .align-center}
 [삼성SDS/2026년 상반기 3급 신입사원 채용 공고](https://linkareer.com/activity/307288)
-![image](assets/images/careerpath/careerpath-4.png){: .align-center}
+![image](/assets/images/careerpath/careerpath-4.png){: .align-center}
 [삼성커리어_SDS](https://www.samsungcareers.com/subsid/detail/C60)
 연구 및 개발 분야에서 원하는 역량은 프로그래밍 언어를 이해 및 알고리즘 문제 해결 역량과 요구사항 이해 및 코드 구현이었다.<br> 
 
 ##### 안랩
 보안 전문 회사라 여러 분야의 보안 직군을 확인할 수 있다.<br>
 아직 관심분야를 정하지 못했지만 SW개발(Windows) 공고를 확인해보았다.
-![image](assets/images/careerpath/careerpath-5.png){: .align-center}
+![image](/assets/images/careerpath/careerpath-5.png){: .align-center}
 [AhnLab/경력_SW개발(Windows)](https://ahnlab.recruiter.co.kr/career/jobs/99908)
 신입은 클라우드 개발만 뽑고 나머지는 다 경력이다<br>
 자격요건을 보면 컴퓨터 공학 및 윈도우에 대한 기본 지식과 4년 이상의 개발 경력을 본다.<br>
@@ -52,7 +52,7 @@ Security Architect_보안 신기술 발굴/검증 및 사업화 전략, Security
 ##### 아우토크립트 
 아우토크립트는 자동차 사이버보안 기업이다. 완전한 자율주행 자동차 시대가 온다면 보안직군이 필수요소이기에 찾아보았다.<br>
 다양한 채용 모집 직군 중 경력직이 많았지만 난 아직 경력이 없으므로 경력무관 중 테스팅 솔루션 엔지니어를 확인했다.
-![image](assets/images/careerpath/careerpath-6.png){: .align-center}
+![image](/assets/images/careerpath/careerpath-6.png){: .align-center}
 [아우토크립트/자동차 사이버보안 테스팅 솔루션 엔지니어_경력무관](https://autocrypt.career.greetinghr.com/ko/o/139647)
 자동차 ​사이버보안 ​취약점 분석 ​및 검증을 위한 테스팅 ​솔루션 ​운영·구축·자동화 업무를 ​수행하는 업무이다.<br>
 Linux 기반 시스템 운영 또는 개발 경험, DevOps 또는 시스템 엔지니어링에 대한 기본 이해,
