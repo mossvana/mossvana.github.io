@@ -1,4 +1,8 @@
-# learngitbranching으로 배운 Git 명령어 정리
+---
+title: "learngitbranching으로 배운 Git 명령어 정리"
+date: 2026-04-30 
+categories: [dev]
+---
 
 > [learngitbranching.js.org](https://learngitbranching.js.org/?locale=ko)에서 학습한 내용을 정리한 레퍼런스입니다.
 
