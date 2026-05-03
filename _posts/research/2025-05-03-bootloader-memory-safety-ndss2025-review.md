@@ -1,7 +1,7 @@
 ---
 title: "[논문 리뷰] A Comprehensive Memory Safety Analysis of Bootloaders | NDSS 2025"
 excerpt: "부트로더의 공격 표면을 체계적으로 분류하고, VM 기반 퍼징 프레임워크로 38개 신규 취약점을 발견한 연구. GRUB에서만 14개, 일부는 Secure Boot 우회 가능성 확인."
-date: 2025-05-03
+date: 2026-05-03
 categories: [research]
 ---
 
