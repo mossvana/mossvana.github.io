@@ -1,6 +1,6 @@
 ---
 title: "IDS/IPS의 원리와 활용 방법"
-date: 2026-04-11
+date: 2026-05-13
 categories: [blog]
 ---
 <br>
