@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "2026 핵테온 세종 write-up"
 date: 2026-05-13
 categories: [ctf]
